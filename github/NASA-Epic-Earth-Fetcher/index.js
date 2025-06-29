@@ -1,6 +1,5 @@
 // Author : Therese Elvira Mombou Gatsing
 
-
 const axios = require('axios');
 const fs = require('fs');
 const readline = require('readline');
