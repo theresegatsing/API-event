@@ -10,3 +10,4 @@ image — image filename
 date — timestamp when the image was taken (in UTC), e.g., "2024-06-27 00:41:17"
 
 centroid_coordinates — latitude and longitude of the center of the image
+# API-event
